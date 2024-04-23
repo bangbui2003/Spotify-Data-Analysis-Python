@@ -37,7 +37,7 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
   <p align="center"> <img src="https://github.com/bangbui2003/Spotify-Data-Analysis-Python/blob/7f3877002c218a5a9675df547917809112a71853/images/Correlation%20Heatmap%20between%20Variable.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </p>
  
 4. **Regression plot - Correlation between Loudness and Energy**
-  <p align="center"> <img href="https://github.com/bangbui2003/Spotify-Data-Analysis-Python/blob/7f3877002c218a5a9675df547917809112a71853/images/Regression%20plot%20-%20Correlation%20between%20Loudness%20and%20Energy.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </p>
+  <p align="center"> <img href="https://github.com/bangbui2003/Spotify-Data-Analysis-Python/blob/5c2bcdc26fa960e5d5592ea7ef14532fea9ae7f8/images/Regression%20plot%20-%20Correlation%20between%20Loudness%20and%20Energy.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </p>
  
 5. **Regression plot - Correlation between Popularity and Acousticness**
  <p align="center"> <img src="https://github.com/bangbui2003/Spotify-Data-Analysis-Python/blob/7f3877002c218a5a9675df547917809112a71853/images/Regression%20plot%20-%20Correlation%20between%20Popularity%20and%20Acousticness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </p>
